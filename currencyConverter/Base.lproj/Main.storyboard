@@ -63,7 +63,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="GBP:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kTx-yi-eHq">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="GBP :" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kTx-yi-eHq">
                                 <rect key="frame" x="74" y="346" width="245" height="47"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="47" id="VQL-JC-9uQ"/>
@@ -123,7 +123,7 @@
                     <connections>
                         <outlet property="cadLabel" destination="nGv-0b-jfW" id="QCt-xY-iuP"/>
                         <outlet property="chfLabel" destination="LeH-1V-eLa" id="Ir7-ys-pHN"/>
-                        <outlet property="gpbLabel" destination="kTx-yi-eHq" id="Z5m-1F-dG2"/>
+                        <outlet property="gbpLabel" destination="kTx-yi-eHq" id="Ps1-LA-Plq"/>
                         <outlet property="jpyLabel" destination="Ngs-o4-fPb" id="to8-MB-SoG"/>
                         <outlet property="tryLabel" destination="ni1-ni-77C" id="sXI-Oq-kOw"/>
                         <outlet property="usdLabel" destination="QKG-dv-ETd" id="QbV-eK-jOm"/>
